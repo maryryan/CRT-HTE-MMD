@@ -1,0 +1,13 @@
+name: HTE-MMD-app
+title: HTE-MMD-app
+username:
+account: mary-ryan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5358810
+bundleId: 6279189
+url: https://mary-ryan.shinyapps.io/HTE-MMD-app/
+when: 1662581858.00877
+lastSyncTime: 1662581858.00877
+asMultiple: FALSE
+asStatic: FALSE
